@@ -8,14 +8,14 @@ The idea behind this project is to build a simple parking assistance system that
 - playing arount with distances and noises
 
 # Components: 
-1x Arduino Uno
-1x Ultrasonic Sensor HC-SR04
-1x Active Buzzer
-3x LEDs (green, yellow, red)
-3x 220 Ω Resistors
-Jumper Wires
-Breadboard (optional)
-USB Cable
+- 1x Arduino Uno
+- 1x Ultrasonic Sensor HC-SR04
+- 1x Active Buzzer
+- 3x LEDs (green, yellow, red)
+- 3x 220 Ω Resistors
+- Jumper Wires
+- Breadboard (optional)
+- USB Cable
 
 # Diffuculties: 
 I had some difficulties designing the circuit for the Arduino, so I used AI to help me understand how to connect the components correctly. In addition, I watched several YouTube videos to learn how to use the different components.
