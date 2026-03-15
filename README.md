@@ -9,3 +9,14 @@ Depending on the measured distance, three LEDs indicate the safety level:
 - **Red LED** lights up when the distance is less than 10 cm, warning that the vehicle is very close to an obstacle.
 
 Additionally, a buzzer produces sound signals that become more urgent as the distance decreases. This helps the user react quickly without constantly looking at the sensor.
+
+# Required Components
+
+- 1x Arduino Uno
+- 1x Ultrasonic sensor
+- 3x LED's (yellow, green, red)
+- 1x active buzzer
+- 3x 220 Ω Resistors
+- jumper wires
+- Breadboard
+- USB Cable
