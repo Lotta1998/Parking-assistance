@@ -23,3 +23,5 @@ I had some difficulties designing the circuit for the Arduino, so I used AI to h
 I originally planned to add a display that would show the distance in centimeters. However, I was not able to get it working. Unfortunately, I could not find the source of the problem, and I am not sure whether it was an issue with the wiring or the code. I also used AI to help with the code, but I was still unable to solve the problem.
 
 I also experimented with different sounds and melodies, but in the end I decided to use a simple beeping sound because I personally found it the most helpful for parking.
+
+
